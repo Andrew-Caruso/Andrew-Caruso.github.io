@@ -1,0 +1,4 @@
+How to make git hub website:
+https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites#dns-setup 
+
+NOTE: switching visibility breaks the site and needs to be rebuilt (i.e. need to edit and send commit or send an empty commit to rebuild). 
